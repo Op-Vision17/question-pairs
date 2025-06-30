@@ -9,3 +9,4 @@ distance
 fuzzywuzzy
 plotly
 xgboost
+streamlit
